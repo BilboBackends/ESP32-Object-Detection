@@ -25,7 +25,7 @@ httpd_handle_t stream_httpd = NULL;
 
 
 const char* ssid = "David's Galaxy S21 5G";
-const char* password = "Ultrapro1@";
+const char* password = "";
 
 dl_matrix3du_t *resized_matrix = NULL;
 size_t out_len = EI_CLASSIFIER_INPUT_WIDTH * EI_CLASSIFIER_INPUT_HEIGHT;
